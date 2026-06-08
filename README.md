@@ -4,7 +4,7 @@ _Materials and lesson plans for the Website Development course offered by Hyland
 ## Course Overview
 This course covers the basics of web development, introducing static  HTML webpages, essential CSS styles, and interactive JavaScript. By the end of the course, students will be able to create and share their own dynamic, interactive, and compelling websites based on their own personal interests. They will also gain a comprehensive understanding of fundamental programming concepts that apply to computer science beyond simply web development.
 
-## Delivery Model Description
+## Delivery Mode Description
 Students join us in our classrooms (Westlake and Cleveland Midtown) and utilize our industry-standard equipment to learn in a welcoming yet rigorous environment.
 
 ## Scope & Sequence: Pacing Guide
