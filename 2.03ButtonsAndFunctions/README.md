@@ -1,4 +1,4 @@
-# 2.03: Buttons
+# 2.03: Buttons & Functions
 This lesson introduces buttons as a way to create more interactive websites.
 
 ### Agenda
