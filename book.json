@@ -1,0 +1,14 @@
+{
+    "structure": {
+        "readme": "BOOKREADME.md",
+        "summary": "SUMMARY.md"
+    },
+    "plugins": ["toggle-chapters", "scripts"],
+    "pluginsConfig": {
+        "scripts": {
+            "files": [
+                "./passwordProtectedPages.js"
+            ]
+        }
+    }
+}
