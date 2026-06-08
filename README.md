@@ -1,11 +1,11 @@
 # Website Development: 290160
-This repository contains materials and lesson plans for the Website Development course offered by Hyland Tech Outreach.
-
-## Delivery Model Description
-Students join us in our classrooms (Westlake and Cleveland Midtown) and utilize our industry-standard equipment to learn in a welcoming yet rigorous environment.
+_Materials and lesson plans for the Website Development course offered by Hyland Tech Outreach_
 
 ## Course Overview
 This course covers the basics of web development, introducing static  HTML webpages, essential CSS styles, and interactive JavaScript. By the end of the course, students will be able to create and share their own dynamic, interactive, and compelling websites based on their own personal interests. They will also gain a comprehensive understanding of fundamental programming concepts that apply to computer science beyond simply web development.
+
+## Delivery Model Description
+Students join us in our classrooms (Westlake and Cleveland Midtown) and utilize our industry-standard equipment to learn in a welcoming yet rigorous environment.
 
 ## Scope & Sequence: Pacing Guide
 The course is split up into two units, each meant to comprise one semester. Lessons will be presented in order, as they build on each other. The ultimate goal is for students to develop the skills they need to create a fully-functioning interactive website. Each lesson brings them closer to realizing this goal.
