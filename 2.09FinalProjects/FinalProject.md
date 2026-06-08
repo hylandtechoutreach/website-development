@@ -1,5 +1,5 @@
-# JavaScript Final Project
-For the final project for this course, you can make anything you want with JavaScript! There are a few requirements, but other than that, feel free to create anything your heart desires. The requirements are listed below, along with some ideas to help you get started.
+# Website Development Final Project
+For the final project for this course, you can make anything you want with HTML, CSS, and JavaScript! There are a few requirements, but other than that, feel free to create anything your heart desires. The requirements are listed below, along with some ideas to help you get started.
 
 ## Requirements
 Your project must have:
@@ -28,7 +28,7 @@ Your project must have:
 - At least one (1) array
 
 ## Presentations
-Students will be expected to present their projects at the last meeting of the semester.
+Students will be expected to present their projects at the last meeting of the course.
 
 ### Content
 The presentation should include:
@@ -47,7 +47,7 @@ Here are some guidelines for the presentations:
     - If a student cannot share their screen, they should share their project link with the instructors
 - A student also has the option of recording a video presentation
 - There will be a defined schedule and order for each student to present
-- **If a student does not present a final project, they may not be able to move onto the next level of Hy-Tech Club**
+- **If a student does not submit a final project, they will not complete the course**
 
 ## Ideas
 If you're having trouble thinking of something you'd like to make, you can choose one of these ideas as a starting point.

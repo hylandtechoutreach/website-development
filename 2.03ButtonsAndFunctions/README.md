@@ -1,4 +1,4 @@
-# Buttons
+# 2.03: Buttons
 This lesson introduces buttons as a way to create more interactive websites.
 
 ### Agenda
@@ -12,8 +12,16 @@ This lesson introduces buttons as a way to create more interactive websites.
 | Code-Along | 30m |
 | Self-Paced Work | 30m |
 
+### Learning Objectives
+By the end of this lesson, students will be able to:
+
+- Understand the use and purpose of functions
+- Create a button that runs encapsulated code when clicked
+- Define and call functions in JavaScript
+- Use appropriate syntax to create and use a method (CS OH Standard **ATP.CS.9-12.F.b**)
+
 ## Warm-Up: Blooket
-Facilitate the [Blooket](https://dashboard.blooket.com/set/65b8eeccf29aed4ff8bea349) that covers the content from the previous session.
+Facilitate the [Blooket](https://dashboard.blooket.com/set/65b8eeccf29aed4ff8bea349) that covers the content from the previous lesson.
 
 ## Presentation: Buttons
 The [presentation](Buttons.pptx) covers functions and buttons.

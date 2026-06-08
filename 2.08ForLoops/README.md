@@ -1,7 +1,15 @@
-# Week 10: For Loops
+# 2.08: For Loops
 Introduce [`for` loops](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Loops_and_iteration) as a way to repeat code automatically.
 
 Note that it is more important for students to be able to _use_ for loops than fully understand each part of them. If they can memorize the basic structure and syntax, that should be sufficient.
+
+### Learning Objectives
+By the end of this lesson, students will be able to:
+
+- Recognize the power and purpose of `for` loop structures
+- Repeatedly execute code in a program using a `for` loop
+- Trace `for` loop code to understand how many times code will execute
+- Refactor a program to be smaller and more efficient (CS OH Standard **ATP.CS.9-12.A.b**)
 
 ## Warm-Up: Counter
 Have the students complete the warm-up activity by following [the instructions](WarmUp.md). The idea is to show how annoying it is to repeat code manually.

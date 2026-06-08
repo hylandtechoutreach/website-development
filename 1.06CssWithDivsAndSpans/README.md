@@ -1,5 +1,13 @@
-# Divs and Spans
+# 1.06: CSS with Divs and Spans
 This lesson will dive deeper into CSS. This will be mostly pure CSS, plus introducing the class/id attributes and the div/span elements.
+
+### Learning Objectives
+By the end of this lesson, students will be able to:
+
+- Recognize and utilize `<div>` and `<span>` elements
+- Create a grid with HTML and CSS
+- Utilize the class selector and ID selector to dynamically apply styles to HTML elements
+- Create their own pixel art with HTML and CSS
 
 ## Lecture 1: More Selectors
 Present the [first presentation](MoreSelectors.pptx). It covers:

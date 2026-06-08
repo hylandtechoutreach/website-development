@@ -24,7 +24,7 @@ Create a CSS file containing:
 - At least one responsive element (_hint: use Bootstrap!_)
 
 ## Presentations
-Students will be expected to present their projects at the last meeting of the semester.
+Students will be expected to present their projects at the last meeting of the unit.
 
 ### Content
 The presentation should include:
@@ -42,4 +42,4 @@ The presentation should include:
     - If a student cannot share their screen, they should send a link to their final project
 - A student also has the option of recording a video presentation
 - There will be a defined schedule and order for each student to present
-- **If a student does not present a final project, they may not be able to move onto the next level of Hy-Tech Club**
+- **If a student does not submit a final project, they will not complete the course**

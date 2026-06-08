@@ -1,4 +1,4 @@
-# Reverse Engineering Challenge
+# 1.04: HTML & CSS Review Challenge
 Follow the [Reverse Engineering Challenge](ReverseEngineeringChallenge.md) instructions to build a Stranger Things website based on an image. For reference, view the [HTML Cheatsheet](HtmlCheatsheet.md).
 
 ## Challenge

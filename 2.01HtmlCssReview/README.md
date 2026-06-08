@@ -1,11 +1,11 @@
-# Week 1: HTML & CSS Review
-Review content from HTML and CSS. Note, depending on how much the students remember, it may be worth spending more than one session on these concepts.
+# 2.01: HTML & CSS Review
+Review content from HTML and CSS. Note, depending on how much the students remember, it may be worth spending more than one meeting on these concepts.
 
-## Student Introductions
-Since this is the first week of the club, allow the students to introduce themselves. They can share their school and grade level, and something fun like their favorite movie or tv show or an interesting fact about themselves.
+### Learning Objectives
+For this lesson, the purpose is to review things the students should already know! Primarily, they should be able to continue learning the next level of web development after reaffirming their understanding of HTML and CSS.
 
 ## Icebreaker: Online Pictionary
-The first session should begin with a quick icebreaker activity where the instructors and students can introduce themselves.
+The first lesson should begin with a quick icebreaker activity where the instructors and students can introduce themselves.
 
 Create a new private room in [Drawasaurus](https://www.drawasaurus.org/) (online pictionary). Keep the round count and draw time to small numbers to limit the total amount of time for the activity. In the "Custom Words" text area, add some HTML- and CSS-related words that the students should recognize from Web 101. For example:
 
@@ -28,7 +28,7 @@ The students should work on their "About Me" websites on their own, following [t
 If the students complete the Individual activity with time to spare, they can attempt the [challenges](Challenges.md).
 
 ## Formative Assessment: Blooket
-End the session with a [Blooket](https://dashboard.blooket.com/set/65b8f133f29aed4ff8bea413) to gauge what the students ultimately remember from HTML/CSS.
+End the lesson with a [Blooket](https://dashboard.blooket.com/set/65b8f133f29aed4ff8bea413) to gauge what the students ultimately remember from HTML/CSS.
 
 ## Agenda
 

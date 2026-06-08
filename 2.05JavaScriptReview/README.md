@@ -1,10 +1,10 @@
-# Mid-Semester Review
-Use this session to review the concepts covered so far, and check in with students individually. This session will also be a chance to have some fun and have everybody get to know each other a little better.
+# 2.05: JavaScript Half-Unit Review
+Use this lesson to review the concepts covered so far, and check in with students individually. This lesson will also be a chance to have some fun and have everybody get to know each other a little better.
 
-## Objectives
-There are no particular learning objectives for this session. Students should have a chance to:
+### Learning Objectives
+There are no particular learning objectives for this lesson. Students should have a chance to:
 
-- Review concepts from previous sessions
+- Review concepts from previous lessons
 - Interact socially
 
 ## Self-Paced Time

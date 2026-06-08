@@ -1,8 +1,17 @@
-# DOM Manipulation Part 2
+# 2.07: DOM Manipulation Part 2
 Show how DOM manipulation can be used to update the HTML of a webpage. This lesson covers:
 
 - Updating existing HTML elements
 - Creating new HTML elements
+
+### Learning Objectives
+By the end of this lesson, students will be able to:
+
+- Create dynamic HTML elements with JavaScript using `document.createElement`
+- Update dynamically created elements using `appendChild`
+- Understand the basics of the Document Object Model API
+- Write programs that use library methods and control structures and methods to solve a problem (CS OH Standard **ATP.CS.9-12.A.a**)
+- Create programming solutions by reusing existing code (e.g., libraries, Application Programming Interface (APIs), code repositories) (CS OH Standard **ATP.M.9-12.A.c**)
 
 ## Warm-Up: Question
 Pose the following question to the students:

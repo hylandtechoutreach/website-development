@@ -1,8 +1,8 @@
-# Conditionals
+# 2.04: Conditionals
 Learn how to change what happens in a program based on _conditions_.
 
 ## PowerPoint Presentation
-<iframe src='https://view.officeapps.live.com/op/embed.aspx?src=https://hylandtechclub.com/web-102/Conditionals/Conditionals.pptx' width='100%' height='450px' frameborder='0'></iframe>
+<iframe src='https://view.officeapps.live.com/op/embed.aspx?src=https://hylandtechoutreach.github.io/website-development/2.04Conditionals/Conditionals.pptx' width='100%' height='450px' frameborder='0'></iframe>
 
 ## Conditional Debugging
 [Click here for the Conditional Debugging activity instructions.](ConditionalDebugging.md)

@@ -1,5 +1,5 @@
-# Mid-Semester Review
-Use this session to review the concepts covered so far!
+# 2.05: JavaScript Half-Unit Review
+Use this lesson to review the concepts covered so far!
 
 ## Options
 You can choose from a number of options:

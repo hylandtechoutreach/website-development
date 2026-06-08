@@ -1,5 +1,13 @@
-# Responsive Design & Bootstrap
+# 1.07: Responsive Design & Bootstrap
 Introduce the idea of responsive design, and impress upon the students its importance. Start by doing responsive design manually using pure CSS, and then introduce the Bootstrap framework as a standard alternative.
+
+### Learning Objectives
+By the end of this lesson, students will be able to:
+
+- Understand the purpose and importance of responsive design
+- Develop websites that work for any type of device (laptop, desktop, mobile phone)
+- Use the Bootstrap library to automatically create responsive websites
+- Relate coding to their own interests with a specific magazine topic
 
 ## Warm Up
 Pose this question to the students:

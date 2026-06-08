@@ -1,7 +1,7 @@
-# More HTML Elements
-This week is all about introducing more new HTML elements. Students should add these elements to their toolbox, and have more of a chance to practice writing out HTML syntax.
+# 1.03: More HTML Elements
+This lesson is all about introducing more new HTML elements. Students should add these elements to their toolbox, and have more of a chance to practice writing out HTML syntax.
 
-## Agenda
+### Agenda
 
 | Activity | Time |
 |-|-|
@@ -10,6 +10,16 @@ This week is all about introducing more new HTML elements. Students should add t
 | Code-Along | 40m |
 | Break | 10m |
 | Self-Paced Work | 40m |
+
+### Learning Objectives
+By the end of this lesson, students will be able to:
+
+- Create `<ul>` and `<li>` elements
+- Create various types of `<input>` elements
+- Create `<table>` elements
+- Create `<iframe>` elements
+- Utilize external tools for code creation (e.g., embedding a YouTube video)
+- Understand parent/child structure of HTML documents
 
 ## Warm Up: Blooket
 Start class with a [review Blooket](https://dashboard.blooket.com/set/63ff7a6accb65f64e013c334), covering the content from the previous lesson.

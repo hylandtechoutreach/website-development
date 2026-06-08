@@ -1,11 +1,11 @@
-# For Loops
+# 2.08: For Loops
 Learn how to use `for` loops to programmatically repeat blocks of code.
 
 ## Warm-Up Activity: The Count
 [Click here for the warm-up activity instructions.](WarmUp.md)
 
 ## PowerPoint Presentation
-<iframe src='https://view.officeapps.live.com/op/embed.aspx?src=https://hylandtechclub.com/web-102/ForLoops/ForLoops.pptx' width='100%' height='450px' frameborder='0'></iframe>
+<iframe src='https://view.officeapps.live.com/op/embed.aspx?src=https://hylandtechoutreach.github.io/website-development/2.08ForLoops/ForLoops.pptx' width='100%' height='450px' frameborder='0'></iframe>
 
 ## Code-Along: Library of Babel
 [Click here for the code-along instructions.](BabelCodeAlong.md)
