@@ -1,8 +1,8 @@
-# Responsive Design
+# 1.07: Responsive Design
 Learn how to make webpages function properly on different types of devices using responsive design and bootstrap. Review the PowerPoint presentation, then complete the [Magazine Website Follow-Along](MagazineWebsiteFollowAlongWithCode.md) activity.
 
 ## Responsive Design
-<iframe src='https://view.officeapps.live.com/op/embed.aspx?src=https://hylandtechclub.com/web-101/Week07/ResponsiveDesign.pptx' width='100%' height='450px' frameborder='0'></iframe>
+<iframe src='https://view.officeapps.live.com/op/embed.aspx?src=https://hylandtechoutreach.github.io/website-development/1.07ResponsiveDesign/ResponsiveDesign.pptx' width='100%' height='450px' frameborder='0'></iframe>
 
 ## Code-Along
 - [Magazine Website Starter Code](https://hytop.onrender.com/e/onlinemagazine)

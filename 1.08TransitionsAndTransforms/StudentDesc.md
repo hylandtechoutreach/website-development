@@ -1,4 +1,4 @@
-# Transitions & Transforms
+# 1.08: Transitions & Transforms
 Learn how to use CSS transitions and transforms to make a more dynamic website.
 
 ## Resources

@@ -1,8 +1,17 @@
-# Week 5: Booleans and Conditional Statements
+# 2.04: Booleans and Conditional Statements
 Introduce program flow and the boolean data type. This lesson covers:
 
 - The Boolean data type
 - Conditional Statements
+
+### Learning Objectives
+By the end of this lesson, students will be able to:
+
+- Create a program that dynamically responds to user input
+- Recognize and write `if` and `else` statements
+- Recall the two possible types for boolean data
+- Trace and debug conditional programs to ensure quality
+- Define control structures and Boolean logic and use them to solve real-world scenarios (CS OH Standard **ATP.CS.9-12.F.a**)
 
 ## Warm-Up: Review Quiz
 Start things off with a review quiz. There is a [quizizz](https://quizizz.com/admin/quiz/5bacd1a1abe7b5001921fb7d/javascript-basics-review) with the questions. This quiz covers the content leading up to this lesson.

@@ -1,9 +1,17 @@
-# Week 2: Introduction to JavaScript
+# 2.02: Introduction to JavaScript & Data Types
 Introduce JavaScript at a basic level. This should be a fairly light introduction. This lesson covers:
 
 - `alert` function
 - variables
+- data types
 - `prompt` function
+
+### Learning Objectives
+By the end of this lesson, students will be able to:
+
+- Create a program to produce output for the user to see (`alert`)
+- Create a program to take input data from the user (`prompt`)
+- Identify types of variables and data and utilize them to create a computer program that stores data in appropriate ways (OH CS Standard: **ATP.VDR.9-12.F.a**)
 
 ### Note: `let` and `var`
 In modern JavaScript, the `let` keyword is preferred over the `var` keyword in most cases. For the purposes of this course, the two keywords are all but interchangeable; however, `let` should be the standard. There may be instances of `var` in some of this curriculum; those should all be replaced with `let`. [The differences between `let` and `var` are far beyond the scope (haha) of this course](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/let#description).
@@ -21,12 +29,13 @@ The [first presentation](IntroductionToJavaScript.pptx) defines JavaScript and e
 
 There is a mini-challenge within the lecture - students should create a new Glitch project and open the **script.js** file to complete it. 
 
-## Lecture 2: JavaScript Variables
+## Lecture 2: JavaScript Variables & Data Types
 The [second presentation](JavaScriptVariables.pptx) dives in to the following concepts:
 
 - Script tag
 - `alert`
 - Variables
+- Data types
 - `prompt`
 
 There are further mini-challenges within this lecture - students should use the same project from the first lecture.

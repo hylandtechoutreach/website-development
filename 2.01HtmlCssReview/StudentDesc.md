@@ -1,4 +1,4 @@
-# HTML & CSS Review
+# 2.01: HTML & CSS Review
 This lesson reviews some foundational topics from HTML and CSS.
 
 ## Code-Along: Despicable Me Fan Site

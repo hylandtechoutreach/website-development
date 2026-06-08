@@ -1,8 +1,8 @@
-# DOM Manipulation (Update HTML)
+# 2.07: DOM Manipulation (Update HTML)
 Learn how to update the HTML elements on a webpage using JavaScript.
 
 ## PowerPoint Presentation
-<iframe src='https://view.officeapps.live.com/op/embed.aspx?src=https://hylandtechclub.com/web-102/DomManipulationContinued/DomManipulationContinued.pptx' width='100%' height='450px' frameborder='0'></iframe>
+<iframe src='https://view.officeapps.live.com/op/embed.aspx?src=https://hylandtechoutreach.github.io/website-development/2.07DomManipulationContinued/DomManipulationContinued.pptx' width='100%' height='450px' frameborder='0'></iframe>
 
 ## DOM Manipulation Guide: Update HTML
 [Click here to for a guide on using JavaScript to update HTML elements.](DomManipulationUpdateHtml.md)

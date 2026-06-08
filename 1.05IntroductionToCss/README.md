@@ -1,5 +1,13 @@
-# Introduction to CSS
+# 1.05: Introduction to CSS
 This lesson will introduce CSS. There will be a little bit of HTML (the `link` tag), but overall this lesson will focus on what CSS is, how it works, the syntax of CSS, some basic element-level selectors, and a handful of CSS properties to get started.
+
+### Learning Objectives
+By the end of this lesson, students will be able to:
+
+- Use the `<link>` HTML element
+- Add some styles to their websites
+- Use essential selectors and properties
+- Update an existing HTML document with CSS styles
 
 ## Warm Up
 Give the students 5 minutes to try and complete the [warmup activity](WarmUp.md). They will visit a CodePen and make some changes to it. They have yet to learn CSS, but may be able to pick it up based on the context clues.
@@ -32,7 +40,7 @@ The team with the highest amount of points wins.
 Add basic styles to Banana product page. Have the students start with the HTML code, then follow the instructions in [BananasFollowAlong](BananasFollowAlong.md).
 
 ## Self-Paced Work
-This week, have students spend any remaining time adding CSS to their final projects. They will have to ensure they properly link a CSS file, and then start to stylize their pages!
+For this lesson, have students spend any remaining time adding CSS to their final projects. They will have to ensure they properly link a CSS file, and then start to stylize their pages!
 
 ## Agenda
 
