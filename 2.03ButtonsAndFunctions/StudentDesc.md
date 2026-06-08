@@ -1,4 +1,4 @@
-# 2.03: Buttons
+# 2.03: Buttons & Functions
 Learn how to define _functions_ that make buttons do things on a webpage!
 
 ## PowerPoint Presentation
